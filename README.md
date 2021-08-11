@@ -42,3 +42,11 @@ Phase 2: Deployment (code2.py)
 7. Loop over the detected face locations and their corresponding locations.
 
 8. Display the label and bounding box rectangle on the output frame.
+
+Results: 
+
+
+![image](https://user-images.githubusercontent.com/54996146/129073783-cc088c29-cee0-461c-aa74-783b4787347a.png)
+
+
+![113990852-90dfd980-985a-11eb-8ae0-10fcbfeeb316](https://user-images.githubusercontent.com/54996146/129074226-74f04445-05e3-4a3f-9a70-719456214d2d.gif)
