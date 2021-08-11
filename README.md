@@ -23,7 +23,7 @@ Phase 1: Training (code1.py)
 
 8. Compile the model and train the head of the network.
 
-9. For each image in the testing set we need to find the index of the label with corresponding largest predicted probability.
+9. For each image in the testing set, we need to find the index of the label with corresponding largest predicted probability.
 
 Phase 2: Deployment (code2.py)
 
@@ -37,7 +37,7 @@ Phase 2: Deployment (code2.py)
 
 5. Load our serialized face detector model and load the face mask detector model.
 
-6. Loop over the frames from the video stream and 
+6. Loop over the frames from the video stream.
 
 7. Loop over the detected face locations and their corresponding locations.
 
