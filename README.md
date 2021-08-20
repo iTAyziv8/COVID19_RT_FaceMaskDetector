@@ -1,7 +1,7 @@
 # COVID19_RT_FaceMaskDetector
 This project provides the ability to detect whether a person wearing a mask or not, by using Convolutional Neural Network (CNN)
 
-Libraries & Frameworks: Keras, TensorFlow, MobileNetV2 architecture, openCV
+Libraries & Frameworks: Keras, TensorFlow, MobileNetV2 architecture, openCV, Deep Learning
 
 This project contains 2 main phases: 
 
